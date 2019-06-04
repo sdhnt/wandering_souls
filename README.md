@@ -1,2 +1,8 @@
 # wandering_souls
-Using Kinect &amp; Processing to build a projected wandering soul shadow animation of the person in front of the device 
+Using Kinect &amp; Processing to build a projected wandering soul shadow animation of the person in front of the device.
+
+Art & Engineering <3
+
+<img src="01.png">
+<img src="02.png">
+<img src="03.png">
