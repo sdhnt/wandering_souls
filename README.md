@@ -5,6 +5,4 @@ As you walk in front of the wall, you see your shadow on it. When you come close
 
 Art & Engineering <3
 
-<img src="01.png" width="100">
-<img src="02.png" width="100">
-<img src="03.png" width="100">
+<img src="01.png" width="200"> <img src="02.png" width="200"> <img src="03.png" width="200">
